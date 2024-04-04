@@ -55,9 +55,9 @@ math.html
         }
         .box {
             display: block;
-            width: 550px;
-            min-height: 300px;
-            font-size: 20px;
+            width: 500px;
+            min-height: 280px;
+            font-size: 15px;
             background-color: rgba(255, 255, 255, 0.492);
             animation: colorChange 10s infinite; 
         }
@@ -71,7 +71,7 @@ math.html
         h1 {
             color: black;
             text-align: center;
-            padding-top: 20px;
+            padding-top: 15px;
         }
         h2{
             color:black;
@@ -89,7 +89,7 @@ math.html
 <body>
     <div class="box">
         <h1>Surface Area of Right Cylinder</h1>
-        <h2> C Nikesh Kumar 212223040132l</h2>
+             <h2>        C NikeshKumar(212223040132)</h2>
 
         <form method="POST">
             <div class="formelt">
@@ -152,10 +152,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2024-04-04 152651.png>)
+![alt text](<Screenshot 2024-04-04 154741.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-04-04 152633.png>)
+![alt text](<Screenshot 2024-04-04 154724.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
